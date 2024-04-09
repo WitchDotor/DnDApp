@@ -21,4 +21,7 @@ dependencyResolutionManagement {
 
 rootProject.name = "DnDApp"
 include(":app")
- 
+include(":core")
+include(":common-presentation")
+include(":common-data")
+include(":ui-kit")
