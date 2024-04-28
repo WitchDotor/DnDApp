@@ -9,7 +9,7 @@ import androidx.compose.ui.graphics.Color
 val Primary=Color(0xff59160d)
 val PrimaryDark=Color(0xFF47120A)
 val DnDGreen=Color(0xffd1e1bc)
-val Secondary=Color(0xffcaae6a)
+val Secondary=Color(0xFFD8BC77)
 val OnPrimary=Color(0xffeee3ce)
 val OnPrimaryDark=Color(0xffeedfc2)
 
