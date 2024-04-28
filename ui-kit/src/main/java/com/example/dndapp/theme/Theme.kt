@@ -43,7 +43,7 @@ fun DnDTheme(
     }
 }
 
-object UiTheme {
+object DnDTheme {
     val colors: UiColor
         @Composable
         @ReadOnlyComposable
